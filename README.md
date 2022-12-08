@@ -74,3 +74,4 @@ This repo looks intimidating at first but be sure, you know enough skills to wal
 1. Then we see code like: `<a href="#major-navigation" class="navigation-toggle-button">`. If you trace the class name in the CSS you'll see that it's using `transition` and `display` to hide or show other elements.
 1. The JS file looks scary but it's also not. It's mostly handling the image gallery slide show (*line 12-109*) and creating a date at the bottom of the website. (*line 5 - 10*).
 1. The CSS is broken into sections that help the developer navigate through. Read the code and see if you can gain some insights. You'll need to research `clear` and `float` since we've been using `display-flex`.
+
